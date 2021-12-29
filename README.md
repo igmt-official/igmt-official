@@ -38,7 +38,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://ibb.co/sb0T15Q" />]
+[<img align="left" alt="Visual Studio Code" width="15px" src="https://imgur.com/mXyqiZs" />]
 [<img align="left" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]
 [<img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />]
 [<img align="left" alt="PHOTOSHOP" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />]
