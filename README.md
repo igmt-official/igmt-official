@@ -54,6 +54,8 @@
 
 <br />
 
+[![Ivan Gregor Tabalno's GitHub stats](https://github-readme-stats.vercel.app/api?username=igmtOfficial)]
+
 [facebook]: https://facebook.com/igmtofficial
 [twitter]: https://twitter.com/igmtofficial
 [instagram]: https://instagram.com/igmtofficial
