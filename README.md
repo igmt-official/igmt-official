@@ -44,4 +44,12 @@
 [<img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/G3BRMnR/photoshop-png-logo-3085.png" />]
 [<img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/9T7gsn3/Png-Item-1054962.png" />]
 
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="igmtOfficial" width="22px" src="https://i.ibb.co/rZjJYHn/logo-facebookpng-32204.png" />][facebook]
+[<img align="left" alt="igmtOfficial | YouTube" width="22px" src="https://i.ibb.co/brcrgtQ/logo-ig-png-32464.png" />][instagram]
+[<img align="left" alt="igmtOfficial | Twitter" width="22px" src="https://i.ibb.co/ryNchPL/logo-twitter-png-5860.png" />][twitter]
+<br />
 
