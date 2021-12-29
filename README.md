@@ -28,3 +28,10 @@
   <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=igmtOfficial&style=flat-square">
     </a>
   </p>
+
+  ## I'm a Back-end Software Engineer | Graphic Designer!!
+
+- 👨‍💻 I'm currently learning everything on python 
+- 🤖 I'm focusing on machine learning / bot
+- 🖼️ I'm also a graphic designer
+- 🎭 I'm making any kind of logo / cover / portfolio / business card / etc...
