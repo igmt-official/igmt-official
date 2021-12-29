@@ -42,6 +42,6 @@
 [<img align="left" alt="PYTHON" width="26px" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />]
 [<img align="left" alt="C#" width="26px" src="https://i.ibb.co/w6j89jn/c-sharp-c-logo-02-F17714-BA-seeklogo-com.png" />]
 [<img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/3NT78p5/adobe-photoshop-logo-freelogovectors-net.png" />]
-[<img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/R4ytpxp/Adobe-Illustrator-Logo-wine.png" />]
+[<img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/9T7gsn3/Png-Item-1054962.png" />]
 
 
