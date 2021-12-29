@@ -40,6 +40,6 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/Cmkj9Jv/Visual-Studio-Code-1-35-icon-svg.png" />]
 [<img align="left" alt="PYTHON" width="26px" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />]
-[<img align="left" alt="C#" width="26px" src="https://i.ibb.co/djwS19D/Csharp-Logo.png" />]
+[<img align="left" alt="C#" width="28px" src="https://i.ibb.co/djwS19D/Csharp-Logo.png" />]
 [<img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/3NT78p5/adobe-photoshop-logo-freelogovectors-net.png" />]
-[<img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/JxYYy0J/Illustrator-Logo.png" />]
+[<img align="left" alt="ILLUSTRATOR" width="28px" src="https://i.ibb.co/JxYYy0J/Illustrator-Logo.png" />]
