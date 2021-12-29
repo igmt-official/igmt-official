@@ -40,11 +40,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/Cmkj9Jv/Visual-Studio-Code-1-35-icon-svg.png" />][facebook]
-[<img align="left" alt="PYTHON" width="26px" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />][facebook]
-[<img align="left" alt="C#" width="26px" src="https://i.ibb.co/w6j89jn/c-sharp-c-logo-02-F17714-BA-seeklogo-com.png" />][facebook]
-[<img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/G3BRMnR/photoshop-png-logo-3085.png" />][facebook]
-[<img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/9T7gsn3/Png-Item-1054962.png" />][facebook]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/Cmkj9Jv/Visual-Studio-Code-1-35-icon-svg.png" />
+<img align="left" alt="PYTHON" width="26px" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="C#" width="26px" src="https://i.ibb.co/w6j89jn/c-sharp-c-logo-02-F17714-BA-seeklogo-com.png" />
+<img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/G3BRMnR/photoshop-png-logo-3085.png" />
+<img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/9T7gsn3/Png-Item-1054962.png" />
 
 ### Connect with me:
 
