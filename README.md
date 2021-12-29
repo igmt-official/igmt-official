@@ -51,5 +51,9 @@
 [<img align="left" alt="igmtOfficial" width="22px" src="https://i.ibb.co/rZjJYHn/logo-facebookpng-32204.png" />][facebook]
 [<img align="left" alt="igmtOfficial | YouTube" width="22px" src="https://i.ibb.co/brcrgtQ/logo-ig-png-32464.png" />][instagram]
 [<img align="left" alt="igmtOfficial | Twitter" width="22px" src="https://i.ibb.co/ryNchPL/logo-twitter-png-5860.png" />][twitter]
+
 <br />
 
+[facebook]: https://facebook.com/igmtofficial
+[twitter]: https://twitter.com/igmtofficial
+[instagram]: https://instagram.com/igmtofficial
