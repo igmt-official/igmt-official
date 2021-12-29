@@ -38,8 +38,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="15px" src="https://i.ibb.co/Cmkj9Jv/Visual-Studio-Code-1-35-icon-svg.png" />]
-[<img align="left" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/Cmkj9Jv/Visual-Studio-Code-1-35-icon-svg.png" />]
+[<img align="left" alt="PYTHON" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />]
 [<img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />]
 [<img align="left" alt="PHOTOSHOP" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />]
 [<img align="left" alt="ILLUSTRATOR" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />]
