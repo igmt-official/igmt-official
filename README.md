@@ -56,6 +56,17 @@
 
 <br />
 
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+## 📘 My Open Source Projects
+### 💯 100 Days of Code
+<p align="left">
+  <a href="https://github.com/igmtOfficial/Hangman">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Hangman&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>
+
+<br />
+
 <h2 align="center">
   📊 Stats
 </h2>
