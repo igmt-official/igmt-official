@@ -62,7 +62,7 @@
 ### 💯 100 Days of Code
 <p align="left">
   <a href="https://github.com/igmtOfficial/Hangman">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Hangman&theme=nightowl&hide_border=true&show_icons=false" />
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Hangman&theme=gruvboxl&hide_border=true&show_icons=false" />
  </a>
 
 <br />
@@ -73,20 +73,20 @@
 
 <p align="center">
   <a href="https://github.com/igmtOfficial/?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=igmtOfficial&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=igmtOfficial&count_private=true&show_icons=true&theme=gruvbox&hide=contribs,prs&hide_border=true"/>
   </a>
 </p>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/igmtOfficial/?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igmtOfficial&theme=nightowl&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igmtOfficial&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/igmtOfficial/?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmtOfficial&layout=compact&theme=nightowl&exclude_repo=igmtOfficial.github.io&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmtOfficial&layout=compact&theme=gruvbox&exclude_repo=igmtOfficial.github.io&hide_border=true"/>
   </a>
 </p>
 
