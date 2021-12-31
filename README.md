@@ -62,7 +62,7 @@
 ### 💯 100 Days of Code
 <p align="left">
   <a href="https://github.com/igmtOfficial/Hangman">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Hangman&theme=gruvboxl&hide_border=true&show_icons=false" />
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Hangman&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
 
 <br />
