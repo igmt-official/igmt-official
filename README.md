@@ -54,6 +54,16 @@
 [<img align="left" alt="igmtOfficial | YouTube" width="22px" src="https://i.ibb.co/brcrgtQ/logo-ig-png-32464.png" />][instagram]
 [<img align="left" alt="igmtOfficial | Twitter" width="22px" src="https://i.ibb.co/ryNchPL/logo-twitter-png-5860.png" />][twitter]
 
+<h2 align="center">
+  📊 Stats
+</h2>
+
+<p align="center">
+  <a href="https://github.com/igmtOfficial/?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=igmtOfficial&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
+  </a>
+</p>
+
 [facebook]: https://facebook.com/igmtofficial
 [twitter]: https://twitter.com/igmtofficial
 [instagram]: https://instagram.com/igmtofficial
