@@ -64,13 +64,17 @@
 <a href="https://github.com/igmtOfficial/Treasure-Map">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Treasure-Map&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
- 
+
  <a href="https://github.com/igmtOfficial/Caesar-Cipher">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Caesar-Cipher&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
 
  <a href="https://github.com/igmtOfficial/Hangman">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Hangman&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
+
+ <a href="https://github.com/igmtOfficial/Calculator">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Calculator&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
 
  </p>
