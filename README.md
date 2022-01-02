@@ -77,8 +77,8 @@
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Calculator&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
 
- <a href="https://github.com/igmtOfficial/The-Blackjack-Capstone">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=The-Blackjack-Capstone&theme=gruvbox&hide_border=true&show_icons=false" />
+ <a href="https://github.com/igmtOfficial/The-Blackjack">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=The-Blackjack&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
 
  </p>
