@@ -85,6 +85,10 @@
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Guess-The-Number&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
 
+ <a href="https://github.com/igmtOfficial/Higher-Lower-Game">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Higher-Lower-Game&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
+
  </p>
 
 <br />
