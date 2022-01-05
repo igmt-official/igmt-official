@@ -92,6 +92,10 @@
 <a href="https://github.com/igmtOfficial/Coffee-Machine">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Coffee-Machine&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
+  
+  <a href="https://github.com/igmtOfficial/The-Quizz">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=The-Quizz&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
 
  </p>
 
