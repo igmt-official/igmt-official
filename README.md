@@ -96,6 +96,10 @@
   <a href="https://github.com/igmtOfficial/The-Quizz">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=The-Quizz&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
+  
+  <a href="https://github.com/igmtOfficial/D-hirst">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=D-hirst&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
 
  </p>
 
