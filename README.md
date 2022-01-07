@@ -100,6 +100,10 @@
   <a href="https://github.com/igmtOfficial/D-hirst">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=D-hirst&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
+  
+  <a href="https://github.com/igmtOfficial/Turtle-Race">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Turtle-Race&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
 
  </p>
 
