@@ -108,6 +108,10 @@
   <a href="https://github.com/igmtOfficial/Snake-Game">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Snake-Game&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
+  
+  <a href="https://github.com/igmtOfficial/Pong">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Pong&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
 
  </p>
 
