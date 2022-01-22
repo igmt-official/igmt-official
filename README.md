@@ -116,6 +116,10 @@
   <a href="https://github.com/igmtOfficial/Mail-Merge">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Mail-Merge&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
+  
+  <a href="https://github.com/igmtOfficial/U.S-States-Game">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=U.S-States-Game&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
 
  </p>
 
