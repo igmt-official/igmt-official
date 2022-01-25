@@ -128,6 +128,10 @@
 <a href="https://github.com/igmtOfficial/Mile-to-KM-Converter-GUI">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Mile-to-KM-Converter-GUI&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
+  
+  <a href="https://github.com/igmtOfficial/Pomodoro-Timer-GUI">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Pomodoro-Timer-GUI&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
 
  </p>
 
