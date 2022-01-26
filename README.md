@@ -59,6 +59,22 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 ## 📘 My Open Source Projects
+### Graphical User Interface (PYTHON)
+<p align="left">
+<a href="https://github.com/igmtOfficial/Mile-to-KM-Converter-GUI">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Mile-to-KM-Converter-GUI&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
+  
+  <a href="https://github.com/igmtOfficial/Pomodoro-Timer-GUI">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Pomodoro-Timer-GUI&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
+  
+  <a href="https://github.com/igmtOfficial/MyPass">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=MyPass&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
+
+ </p>
+
 ### 💯 100 Days of Code
 <p align="left">
 <a href="https://github.com/igmtOfficial/Treasure-Map">
@@ -119,22 +135,6 @@
   
   <a href="https://github.com/igmtOfficial/U.S-States-Game">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=U.S-States-Game&theme=gruvbox&hide_border=true&show_icons=false" />
- </a>
-
- </p>
- 
- ### Graphical User Interface (PYTHON)
-<p align="left">
-<a href="https://github.com/igmtOfficial/Mile-to-KM-Converter-GUI">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Mile-to-KM-Converter-GUI&theme=gruvbox&hide_border=true&show_icons=false" />
- </a>
-  
-  <a href="https://github.com/igmtOfficial/Pomodoro-Timer-GUI">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Pomodoro-Timer-GUI&theme=gruvbox&hide_border=true&show_icons=false" />
- </a>
-  
-  <a href="https://github.com/igmtOfficial/MyPass">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=MyPass&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
 
  </p>
