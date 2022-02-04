@@ -140,6 +140,10 @@
   <a href="https://github.com/igmtOfficial/U.S-States-Game">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=U.S-States-Game&theme=gruvbox&hide_border=true&show_icons=false" />
  </a>
+  
+  <a href="https://github.com/igmtOfficial/Automated-Birthday-Wisher">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=igmtOfficial&repo=Automated-Birthday-Wisher&theme=gruvbox&hide_border=true&show_icons=false" />
+ </a>
 
  </p>
 
