@@ -12,20 +12,20 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
-  <a href="https://github.com/igmtOfficial?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/igmtOfficial"/></a>
+  <a href="https://github.com/igmt-official?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/igmt-official"/></a>
   
-  <a href="https://github.com/igmtOfficial?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/igmtOfficial?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/igmt-official?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/igmt-official?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   </a>
 </p>
 
-<!-- src "https://profile-counter.glitch.me/igmtOfficial/count.svg"> -->
- <!-- src="https://visitor-badge.laobi.icu/badge?page_id=igmtOfficial.igmtOfficial"/> -->
+<!-- src "https://profile-counter.glitch.me/igmt-official/count.svg"> -->
+ <!-- src="https://visitor-badge.laobi.icu/badge?page_id=igmt-official.igmt-official"/> -->
  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
- <a href="https://github.com/igmtOfficial">
-  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=igmtOfficial&style=flat-square">
+ <a href="https://github.com/igmt-official">
+  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=igmt-official&style=flat-square">
     </a>
   </p>
 
@@ -49,9 +49,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="igmtOfficial" width="22px" src="https://i.ibb.co/rZjJYHn/logo-facebookpng-32204.png" />][facebook]
-[<img align="left" alt="igmtOfficial | YouTube" width="22px" src="https://i.ibb.co/brcrgtQ/logo-ig-png-32464.png" />][instagram]
-[<img align="left" alt="igmtOfficial | Twitter" width="22px" src="https://i.ibb.co/ryNchPL/logo-twitter-png-5860.png" />][twitter]
+[<img align="left" alt="igmt-official" width="22px" src="https://i.ibb.co/rZjJYHn/logo-facebookpng-32204.png" />][facebook]
+[<img align="left" alt="igmt-official | YouTube" width="22px" src="https://i.ibb.co/brcrgtQ/logo-ig-png-32464.png" />][instagram]
+[<img align="left" alt="igmt-official | Twitter" width="22px" src="https://i.ibb.co/ryNchPL/logo-twitter-png-5860.png" />][twitter]
 
 <br />
 
@@ -68,24 +68,24 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/igmtOfficial/?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=igmtOfficial&count_private=true&show_icons=true&theme=gruvbox&hide=contribs,prs&hide_border=true"/>
+  <a href="https://github.com/igmt-official/?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=igmt-official&count_private=true&show_icons=true&theme=gruvbox&hide=contribs,prs&hide_border=true"/>
   </a>
 </p>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/igmtOfficial/?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igmtOfficial&theme=gruvbox&hide_border=true"/>
+  <a href="https://github.com/igmt-official/?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igmt-official&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/igmtOfficial/?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmtOfficial&layout=compact&theme=gruvbox&exclude_repo=igmtOfficial.github.io&hide_border=true"/>
+  <a href="https://github.com/igmt-official/?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmt-official&layout=compact&theme=gruvbox&exclude_repo=igmt-official.github.io&hide_border=true"/>
   </a>
 </p>
 
-[facebook]: https://facebook.com/igmtofficial
-[twitter]: https://twitter.com/igmtofficial
-[instagram]: https://instagram.com/igmtofficial
+[facebook]: https://facebook.com/igmt-official
+[twitter]: https://twitter.com/igmt-official
+[instagram]: https://instagram.com/igmt-official
