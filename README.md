@@ -45,7 +45,7 @@
 <img align="left" alt="PYTHON" width="26px" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />
 <img align="left" alt="HTML" width="26px" src="https://i.ibb.co/3BqT5zV/html5-logo-31813.png" />
 <img align="left" alt="CSS" width="26px" src="https://i.ibb.co/bbgjtKZ/html5-logo-31821.png" />
-<img align="left" alt="JAVASCRIPT" width="26px" src="https://i.ibb.co/hWb8q29/Java-Script-Logo.png" />
+<img align="left" alt="JAVASCRIPT" width="26px" src="https://i.ibb.co/stFhz2N/javascript-39410.png" />
 <img align="left" alt="BOOTSTRAP" width="26px" src="https://i.ibb.co/52mH23z/Bootstrap-logo-svg.png" />
 <img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/G3BRMnR/photoshop-png-logo-3085.png" />
 <img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/9T7gsn3/Png-Item-1054962.png" />
