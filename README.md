@@ -31,8 +31,9 @@
 
 <br />
 
-### I'm a Python and Web Developer, Graphic Designer
+### I'm a Python and Web Developer, GFX Designer
 
+- 🔖 I have only know basic HTML, CSS, JS, BS, i'm planning to be a full stack developer in the future.
 - 👨‍💻 I'm currently learning everything on python.
 - 🤖 I'm focusing on scripts, bots, ai.
 - 🖍 I'm also a graphic designer.
@@ -42,6 +43,10 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/Cmkj9Jv/Visual-Studio-Code-1-35-icon-svg.png" />
 <img align="left" alt="PYTHON" width="26px" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="HTML" width="26px" src="https://i.ibb.co/7NY8RpM/html.png" />
+<img align="left" alt="CSS" width="26px" src="https://i.ibb.co/CmGmkwL/css.png" />
+<img align="left" alt="JAVASCRIPT" width="26px" src="https://i.ibb.co/hWb8q29/Java-Script-Logo.png" />
+<img align="left" alt="BOOTSTRAP" width="26px" src="https://i.ibb.co/52mH23z/Bootstrap-logo-svg.png" />
 <img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/G3BRMnR/photoshop-png-logo-3085.png" />
 <img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/9T7gsn3/Png-Item-1054962.png" />
 
