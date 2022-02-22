@@ -95,6 +95,6 @@
 
 [github]: https://github.com/igmt-official
 [reddit]: https://www.reddit.com/user/igmt-official
-[facebook]: https://facebook.com/igmtofficial
-[twitter]: https://twitter.com/igmtofficial
-[instagram]: https://instagram.com/igmtofficial
+[facebook]: https://facebook.com/igmt_official
+[twitter]: https://twitter.com/igmt_official
+[instagram]: https://instagram.com/igmt_official
