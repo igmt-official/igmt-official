@@ -55,6 +55,7 @@
 ### Connect with me:
 
 [<img align="left" alt="igmt-official | Github" width="32px" src="https://i.ibb.co/jMXn8Xg/icons8-github-550.png" />][github]
+[<img align="left" alt="igmt-official | Reddit" width="32px" src="https://i.ibb.co/kK8S0Dj/icons8-reddit-550.png" />][reddit]
 [<img align="left" alt="igmt-official | Facebook" width="32px" src="https://i.ibb.co/RyDL6RZ/icons8-facebook-550.png" />][facebook]
 [<img align="left" alt="igmt-official | Instagram" width="32px" src="https://i.ibb.co/XYH3Syp/icons8-instagram-550.png" />][instagram]
 [<img align="left" alt="igmt-official | Twitter" width="32px" src="https://i.ibb.co/R2LZwqz/icons8-twitter-circled-550.png" />][twitter]
@@ -93,6 +94,7 @@
 </p>
 
 [github]: https://github.com/igmt-official
+[reddit]: https://reddit.com/igmt-official
 [facebook]: https://facebook.com/igmt-official
 [twitter]: https://twitter.com/igmt-official
 [instagram]: https://instagram.com/igmt-official
