@@ -6,7 +6,7 @@
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFDB58&size=25&center=true&vCenter=true&lines=Python+%26+Website+Developer"></a><br>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23E1AD01&center=true&vCenter=true&width=350&lines=Graphic+Designer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFDB58&size=25&center=true&vCenter=true&lines=GFX+Designer"></a>
 </p>
 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
