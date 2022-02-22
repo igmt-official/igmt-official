@@ -94,7 +94,7 @@
 </p>
 
 [github]: https://github.com/igmt-official
-[reddit]: https://reddit.com/igmt-official
+[reddit]: https://www.reddit.com/user/igmt-official
 [facebook]: https://facebook.com/igmt-official
 [twitter]: https://twitter.com/igmt-official
 [instagram]: https://instagram.com/igmt-official
