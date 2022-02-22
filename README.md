@@ -54,9 +54,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="igmt-official" width="22px" src="https://i.ibb.co/rZjJYHn/logo-facebookpng-32204.png" />][facebook]
-[<img align="left" alt="igmt-official | YouTube" width="22px" src="https://i.ibb.co/brcrgtQ/logo-ig-png-32464.png" />][instagram]
-[<img align="left" alt="igmt-official | Twitter" width="22px" src="https://i.ibb.co/ryNchPL/logo-twitter-png-5860.png" />][twitter]
+[<img align="left" alt="igmt-official | Github" width="32px" src="hhttps://i.ibb.co/jMXn8Xg/icons8-github-550.png" />][github]
+[<img align="left" alt="igmt-official | Facebook" width="32px" src="https://i.ibb.co/RyDL6RZ/icons8-facebook-550.png" />][facebook]
+[<img align="left" alt="igmt-official | Instagram" width="32px" src="https://i.ibb.co/XYH3Syp/icons8-instagram-550.png" />][instagram]
+[<img align="left" alt="igmt-official | Twitter" width="32px" src="https://i.ibb.co/R2LZwqz/icons8-twitter-circled-550.png" />][twitter]
 
 <br />
 
@@ -91,6 +92,7 @@
   </a>
 </p>
 
+[github]: https://facebook.com/igmt-official
 [facebook]: https://facebook.com/igmt-official
 [twitter]: https://twitter.com/igmt-official
 [instagram]: https://instagram.com/igmt-official
