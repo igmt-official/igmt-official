@@ -41,14 +41,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/Cmkj9Jv/Visual-Studio-Code-1-35-icon-svg.png" />
-<img align="left" alt="PYTHON" width="26px" src="https://i.ibb.co/MV7pVCD/5848152fcef1014c0b5e4967.png" />
-<img align="left" alt="HTML" width="26px" src="https://i.ibb.co/3BqT5zV/html5-logo-31813.png" />
-<img align="left" alt="CSS" width="26px" src="https://i.ibb.co/nnGktYY/icons8-css3-550.png" />
-<img align="left" alt="JAVASCRIPT" width="26px" src="https://i.ibb.co/QJz4RKQ/javascript-39404.png" />
-<img align="left" alt="BOOTSTRAP" width="26px" src="https://i.ibb.co/V96ZMtV/bootstrap-logo.png" />
-<img align="left" alt="PHOTOSHOP" width="26px" src="https://i.ibb.co/G3BRMnR/photoshop-png-logo-3085.png" />
-<img align="left" alt="ILLUSTRATOR" width="26px" src="https://i.ibb.co/9T7gsn3/Png-Item-1054962.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://i.ibb.co/8sP04dj/icons8-visual-studio-code-2019-550.png" />
+<img align="left" alt="PYTHON" width="32px" src="https://i.ibb.co/wdjDxZr/icons8-python-550.png" />
+<img align="left" alt="HTML" width="32px" src="https://i.ibb.co/4TCYVy9/icons8-html-5-550.png" />
+<img align="left" alt="CSS" width="32px" src="https://i.ibb.co/nnGktYY/icons8-css3-550.png" />
+<img align="left" alt="JAVASCRIPT" width="32px" src="https://i.ibb.co/6yJSFyw/icons8-javascript-550.png" />
+<img align="left" alt="BOOTSTRAP" width="32px" src="https://i.ibb.co/HV89Kvn/icons8-bootstrap-550.png" />
+<img align="left" alt="PHOTOSHOP" width="32px" src="https://i.ibb.co/MZVNqg5/icons8-adobe-photoshop-550.png" />
+<img align="left" alt="ILLUSTRATOR" width="32px" src="https://i.ibb.co/QprNh9s/icons8-adobe-illustrator-550.png" />
 
 <br />
 
