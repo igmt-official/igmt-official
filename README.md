@@ -92,7 +92,7 @@
   </a>
 </p>
 
-[github]: https://facebook.com/igmt-official
+[github]: https://github.com/igmt-official
 [facebook]: https://facebook.com/igmt-official
 [twitter]: https://twitter.com/igmt-official
 [instagram]: https://instagram.com/igmt-official
